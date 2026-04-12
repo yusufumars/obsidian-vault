@@ -22,8 +22,8 @@
 - Dedicated read-only service account — not shared credentials
 
 ## Key decisions pending
-- [ ] Adam discussion: Lab Portal expansion vs cross-tenant routing
-- [ ] Lab Portal scope and timeline with George
+- [ ] [[../../People/adam|Adam]] discussion: Lab Portal expansion vs cross-tenant routing
+- [ ] Lab Portal scope and timeline with [[../../People/george|George]]
 
 ## Reference docs
 - [PRD — Referral Lab Workflow](https://ehealthnigeria.atlassian.net/wiki/spaces/EHACARE/pages/245628929)

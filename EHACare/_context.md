@@ -26,16 +26,16 @@
 - Lab Portal: separate app (apps/labportal/) — already has 2 AI features in production
 
 ## First external client
-- **Hope Children Hospital** — go-live June 2026
+- **[[hope-hospital/_context|Hope Children Hospital]]** — go-live June 2026
 - Referral lab workflow is the key net-new capability needed
 
 ## Team
 - PM/TPM: Yusuf
-- Tech Lead: George
-- BA (Mobile): Halima
-- BA (GetCare/Automation): Banjee
-- Head of Product: Ogo
-- CTO: Adam
+- Tech Lead: [[../People/george|George]]
+- BA (Mobile): [[../People/halima|Halima]]
+- BA (GetCare/Automation): [[../People/banjee|Banjee]]
+- Head of Product: [[../People/ogo|Ogo]]
+- CTO: [[../People/adam|Adam]]
 
 ## Jira epics (7 capability domains)
 1. Patient Registration & Records
@@ -45,6 +45,13 @@
 5. Billing & Finance
 6. Reporting & Quality
 7. Tenant & Clinic Administration
+
+## Vault notes
+- [[strategy/blue-ocean]] · [[strategy/pmf-assessment]] · [[strategy/swot]] · [[strategy/product-positioning]] · [[strategy/pricing-strategy]] · [[strategy/business-model-canvas]]
+- [[roadmap/current-roadmap]]
+- [[hope-hospital/_context|Hope Children Hospital]]
+- [[ai-initiative/_context|Clinical AI Platform]]
+- [[codebase-notes/architecture]] · [[codebase-notes/workflow-engine]] · [[codebase-notes/integrations]]
 
 ## Reference docs
 - [Product Strategy](https://ehealthnigeria.atlassian.net/wiki/spaces/EHACARE/pages/168525828)

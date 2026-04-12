@@ -7,8 +7,8 @@
 - Co-authored EHACare Clinical AI Platform design document
 
 ## Key pending decisions
-- Lab Portal expansion vs cross-tenant EMR routing (Hope Children Hospital referral lab)
-- Databricks AI Gateway provisioning for Phase 1 of AI platform
+- Lab Portal expansion vs cross-tenant EMR routing → [[../EHACare/hope-hospital/_context|Hope Children Hospital referral lab]]
+- Databricks AI Gateway provisioning → blocks [[../EHACare/ai-initiative/_context|AI Platform Phase 1]]
 - Direction on KemiQA integration timeline
 
 ## Context

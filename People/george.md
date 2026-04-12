@@ -12,5 +12,5 @@
 - Involved in Lab Portal expansion decision (pending Adam)
 
 ## Key pending items
-- Lab Portal expansion scope for Hope Children Hospital referral lab workflow
-- GitHub Actions auto-update pipeline for n8n knowledge base (deferred)
+- Lab Portal expansion scope for [[../EHACare/hope-hospital/_context|Hope Children Hospital]] referral lab workflow
+- GitHub Actions auto-update pipeline for [[../Automation/_context|n8n knowledge base]] (deferred)

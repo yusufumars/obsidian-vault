@@ -22,5 +22,5 @@
 - GitHub Actions auto-update pipeline for knowledge base (deferred to George)
 
 ## Stakeholders who have production URL
-- Victor (Director)
-- Ogo (Head of Product)
+- [[../People/victor|Victor]] (Director)
+- [[../People/ogo|Ogo]] (Head of Product)

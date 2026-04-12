@@ -14,27 +14,27 @@
 ## Active products
 | Product | Owner | Status |
 |---|---|---|
-| EHACare | Yusuf (PM) | Pre-PMF, Solution Validated |
-| EHACare Mobile | Halima (BA) | Active |
-| GetCare | Banjee (BA) | EHA Clinics-specific |
-| Automation (n8n) | Banjee (BA) | Active |
+| [[EHACare/_context\|EHACare]] | Yusuf (PM) | Pre-PMF, Solution Validated |
+| [[EHACare-Mobile/_context\|EHACare Mobile]] | [[People/halima\|Halima]] (BA) | Active |
+| [[GetCare/_context\|GetCare]] | [[People/banjee\|Banjee]] (BA) | EHA Clinics-specific |
+| [[Automation/_context\|Automation (n8n)]] | [[People/banjee\|Banjee]] (BA) | Active |
 
 ## Personal projects
 | Project | Stack | Status |
 |---|---|---|
-| SprintIQ | React + Vite + Tailwind v3 + Supabase + Vercel | Active, learning lab |
-| Portfolio website | Next.js, spec-driven, GitHub Issues | Early stage |
+| [[SprintIQ/_context\|SprintIQ]] | React + Vite + Tailwind v3 + Supabase + Vercel | Active, learning lab |
+| [[Portfolio/_context\|Portfolio website]] | Next.js, spec-driven, GitHub Issues | Early stage |
 
 ## Key stakeholders
-- **George** — Tech Lead (structured briefings, engineering requirements)
-- **Ogo** — Head of Product (casual Slack, strategic alignment)
-- **Adam** — CTO (key architecture decision maker)
-- **Victor** — Director (casual Slack, executive updates)
+- **[[People/george\|George]]** — Tech Lead (structured briefings, engineering requirements)
+- **[[People/ogo\|Ogo]]** — Head of Product (casual Slack, strategic alignment)
+- **[[People/adam\|Adam]]** — CTO (key architecture decision maker)
+- **[[People/victor\|Victor]]** — Director (casual Slack, executive updates)
 
 ## Primary focus right now
-- Hope Children Hospital go-live — June 2026 (first external EHACare client)
+- [[EHACare/hope-hospital/_context|Hope Children Hospital]] go-live — June 2026 (first external EHACare client)
 - Referral lab workflow (net-new capability for EHACare)
-- EHACare Clinical AI Platform — Phase 1 planning (Databricks + Claude Agent SDK)
+- [[EHACare/ai-initiative/_context|EHACare Clinical AI Platform]] — Phase 1 planning (Databricks + Claude Agent SDK)
 
 ## Communication style
 - Casual and direct with Victor and Ogo via Slack

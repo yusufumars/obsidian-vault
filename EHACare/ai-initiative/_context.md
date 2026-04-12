@@ -45,6 +45,11 @@
 - Clinician time available for Phase 4 model validation (200-chart blind review)
 - Standards digitization project delivers content for Phase 4
 
+## Pending decisions (owner: [[../../People/adam|Adam]])
+- [ ] Databricks AI Gateway endpoint provisioned — blocks Phase 1 start
+- [ ] KemiQA integration timeline confirmed
+
 ## Reference docs
 - [Full Design Document](https://ehealthnigeria.atlassian.net/wiki/spaces/EHACARE/pages/263913478)
 - [Product Strategy Hub](https://ehealthnigeria.atlassian.net/wiki/spaces/EHACARE/pages/168525828)
+- [[../hope-hospital/_context|Hope Hospital]] — Lab Portal AI features validate Databricks gateway pattern
